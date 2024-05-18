@@ -4,6 +4,8 @@
 ### Objective
 Vrinda stores want to create an annual sales report for the year. so that, Vrinda can understand their customers and grow more sales in next next year
 
+![Vrinda Online Store Visualization Report](https://github.com/SrikanthCeela/Online-Store-Data-Analysis/assets/107699295/861e3a2c-b5ea-4a3f-9c3f-60150f0be57d)
+
 ### Insights
 <ul>
   <li>Women are more likely to buy compared to men (~65%)</li>
@@ -12,4 +14,3 @@ Vrinda stores want to create an annual sales report for the year. so that, Vrind
   <li>Amazon, Flipkart, Myntra are contributing maximum</li>
 </ul>
 
-![Vrinda Online Store Visualization Report](https://github.com/SrikanthCeela/Online-Store-Data-Analysis/assets/107699295/861e3a2c-b5ea-4a3f-9c3f-60150f0be57d)
